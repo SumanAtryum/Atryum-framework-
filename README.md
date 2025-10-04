@@ -328,4 +328,4 @@ References
 2. Rovelli, C. (2018). The Order of Time. Riverhead Books.
 3. Libet, B. (1985). Time of Conscious Intention to Act in Relation to Onset of Cerebral Activity. Brain.
 4. Raichle, M. E. (2001). A default mode of brain function. Proceedings of the National Academy of Sciences.
-5. Subba, S. (2025). The Atryum Framework: Time as an Emergent Property of Conscious Navigation in a Static Manifold.
+5. Subba, S. (2025). The Atryum Framework: Time as an Emergent Property of Conscious Navigation in a Static Manifold.https://doi.org/10.5281/zenodo.17172547
